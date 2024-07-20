@@ -1,0 +1,3 @@
+﻿  Sortari.c
+D:\facultate\structuri de date si algoritmi\lab8\lab8\Sortari.c(6,22): warning C4013: 'time' undefined; assuming extern returning int
+  lab8.vcxproj -> D:\facultate\structuri de date si algoritmi\lab8\x64\Debug\lab8.exe
